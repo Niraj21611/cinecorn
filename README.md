@@ -4,10 +4,21 @@ Cinecorn is a user-friendly movie tracking website that allows film enthusiasts 
 
 ---
 
-## Table of Contents  
+## Table of Contents
+- [API Key](#API-Key)  
 - [Installation](#installation)  
 - [Technologies Used](#technologies-used)  
-- [Features](#features)  
+
+---
+
+## API Key
+
+Follow these steps to get api key:
+
+1. visit [https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
+2. Select Account Type : free
+3. Enter your details 
+4. Submit 
 
 ---
 
