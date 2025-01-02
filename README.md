@@ -1,6 +1,6 @@
 # Cinecorn 
 
-Cinecorn is a user-friendly movie tracking website that allows film enthusiasts to log their watched movies and assign personal ratings. With a sleek interface, users can easily manage their viewing history, assign personal rating and view watching statistics. Cinecorn offers a range of features designed to enhance the movie-watching experience: 
+Cinecorn is a user-friendly movie-tracking website that allows film enthusiasts to log the movies they watch and assign personal ratings. With a sleek interface, users can easily manage their viewing history, assign personal ratings, and view watching statistics. Cinecorn offers a range of features designed to enhance the movie-watching experience: 
 
 ---
 
@@ -13,10 +13,10 @@ Cinecorn is a user-friendly movie tracking website that allows film enthusiasts 
 
 ## API Key
 
-Follow these steps to get api key:
+Follow these steps to get the API key:
 
 1. visit [https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
-2. Select Account Type : free
+2. Select Account Type: free
 3. Enter your details 
 4. Submit 
 
@@ -29,7 +29,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository**:  
    ```bash  
    git clone https://github.com/Niraj21611/cinecorn.git
-   cd codeantai
+   cd cinecorn
    ```  
 
 2. **Install dependencies**:  
@@ -54,9 +54,9 @@ Follow these steps to set up the project locally:
 ---
 
 ## Technologies Used  
-- **ReactJS**: For building interface with resuable components.  
+- **ReactJS**: For building interfaces with reusable components.  
 - **Vanilla css**: For Styling web application.  
-- **HTML**: For structuring the application.   
+- **HTML**: This is used to structure the application.   
 
 ---
 
