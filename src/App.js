@@ -6,7 +6,7 @@ import { useLocalStorage } from "./useLocalStorage";
 const average = (arr) =>
   arr.reduce((acc, cur, i, arr) => acc + cur / arr.length, 0);
 
-const KEY = "627ac0cb";
+const KEY = process.env.KEY;
 
 export default function App() {
   const [query, setQuery] = useState("");
@@ -216,7 +216,7 @@ function MovieDetails({ selectedId, onCloseMovie, onAddWatched, watched }) {
       if (!title) return;
       document.title = `Movie | ${title}`;
       return function () {
-        document.title = "usePopcorn";
+        document.title = "cinecorn";
       };
     },
     [title]
